@@ -1,5 +1,7 @@
 * {
-    background-color: cadetblue
+    background-color: cadetblue;
+    margin: 0;
+    padding: 0;
 }
 
 .flex-container {
@@ -104,4 +106,9 @@ ul li a:hover {
 .cpyrgt {
     background-color: black;
     font-size: 25px;
+    padding: 17px;
+}
+
+footer {
+    margin-top: 31px;
 }
